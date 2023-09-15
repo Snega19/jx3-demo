@@ -1,6 +1,8 @@
 ingress:
   # allows you to specify custom hosts
   customHosts:
+    hook: "https://b26e-49-249-242-82.ngrok-free.app"
+  customHosts:
     # specify your ngrok custom domain here
     # such as
     #    hook: "myuniqueid.ngrok.io
